@@ -1,0 +1,5 @@
+<mistergamedescription>
+	<rbf>_console/psx</rbf>
+	<file delay="5" type="f" index="0" path="boot.rom"/>
+	<file delay="5" type="s" index="1" path="!Playstation Redump Supplement/Final Fantasy VII Retranslation, HardType (U) T+Eng vR60g GreenGoblin/Final Fantasy VII (USA) (Retranslation, Canon, Chicago Font, HardType vR06g GreenGoblin) (Disc 1).cue"/>
+</mistergamedescription>
